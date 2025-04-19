@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/r3trol3o/r3trol3o/main/cyber-banner.png" alt="Leo Mugambi Cybersecurity Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/r3trol3o/r3trol3o/main/cyber-banner.png.png" alt="Leo Mugambi Cybersecurity Banner" style="width:100%;" />
 
-<img src="https://i.imgur.com/r9qU3Xw.png" alt="Cybersecurity Banner" style="width:100%;"/>
+
 
 # 🛡️ Leo Mugambi
 
@@ -71,6 +71,9 @@ Currently leveling up through hands-on labs, practical research, and pure builde
 - 📧 Email: iamleomiguel@gmail.com
 
 ---
+## 🐍 Snake Eat My Commits
+
+![snake gif](https://github.com/r3trol3o/r3trol3o/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer Banner -->
 <img src="https://i.imgur.com/1FhJ2ca.png" alt="Cyber End Banner" style="width:100%;"/>
