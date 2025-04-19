@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/r3trol3o/r3trol3o/main/cyber-banner.png.png" alt="Leo Mugambi Cybersecurity Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/r3trol3o/r3trol3o/main/cyber-banner.png.png" alt="Leo Mugambi Cybersecurity Banner" style="width:80%;" />
 
 
 
