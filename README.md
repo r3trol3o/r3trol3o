@@ -73,7 +73,11 @@ Currently leveling up through hands-on labs, practical research, and pure builde
 ---
 ## 🐍 Snake Eat My Commits
 
+<img src="https://raw.githubusercontent.com/r3trol3o/r3trol3o/main/snake-banner.png" alt="Cyber Snake Grid" style="width:100%;" />
+
 ![snake gif](https://github.com/r3trol3o/r3trol3o/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!-- Footer Banner -->
 <img src="https://i.imgur.com/1FhJ2ca.png" alt="Cyber End Banner" style="width:100%;"/>
