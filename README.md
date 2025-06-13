@@ -73,5 +73,3 @@ Currently leveling up through hands-on labs, practical research, and pure builde
 ---
 
 
-<!-- Footer Banner -->
-<img src="https://i.imgur.com/1FhJ2ca.png" alt="Cyber End Banner" style="width:100%;"/>
